@@ -11,7 +11,7 @@ Instead of manually entering task details, users can simply describe what they n
 ## 🚀 Live Demo
 
 🔗 **Try Whisper2Work:**  
-YOUR_STREAMLIT_APP_LINK
+(https://whisper2work-fkjzgesudobckwpqeabdcr.streamlit.app/)
 
 🔗 **GitHub Repository:**  
 https://github.com/ESanjana246/Whisper2Work
